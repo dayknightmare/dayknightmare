@@ -24,5 +24,3 @@ Sempre gostei da parte web e mobile mais especificamente a parte back-end e UX, 
 
 - 🔗 LinkedIn da Vupy: https://www.linkedin.com/company/66179531
 
-<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?dayknightmare" frameborder="0"></iframe>
-
