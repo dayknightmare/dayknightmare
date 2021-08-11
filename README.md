@@ -24,3 +24,5 @@ Sempre gostei da parte web e mobile mais especificamente a parte back-end e UX, 
 
 - 🔗 LinkedIn da Vupy: https://www.linkedin.com/company/66179531
 
+
+<img src="dinossauro2.gif" style="transform: rotate(90deg);">
