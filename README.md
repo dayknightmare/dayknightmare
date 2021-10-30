@@ -1,28 +1,32 @@
-## Seja bem vindo 👋
+# Seja bem bem-vindo ao meu perfil
 
-### Eu me chamo Miguel, sou desenvolvedor Back-end da parte web e mobile.
+## Sobre
 
-Fique a vontade para ver os meus repositórios nem todos são públicos, mas acredito que possa encontrar algo legal por aqui ou na [Vupy](https://github.com/Vupy).
-
-Sempre gostei da parte web e mobile mais especificamente a parte back-end e UX, pois é nestas partes onde há uma boa relação com a informação seja no tratamento ou experiência de obtenção. Por este fato acredito ser a parte mais divertida de um sistema/site/aplicativo. 
-
-- 📚 Atualmente sou um estudande da UNIVEM
-
-- ❤️ Gosto muito de Python, JS, SCSS e Flutter, mas não me limito apenas a isso
-
-- 💞 Também gosto muito de banco seja relacional ou não relacional, principalmente Postgres e MongoDB
-
-- 🔥 Linux and macOS forever
-
-- 🏢 Sou o fundador e dono da [Vupy Social Networking](https://github.com/Vupy)
-
-- 🐦 Twitter: https://twitter.com/MiguelVColombo
-
-- 🔗 LinkedIn: https://www.linkedin.com/in/miguel-vieira-c-7a1534189/
-
-- 🐦 Twitter da Vupy: https://twitter.com/SocialVupy
-
-- 🔗 LinkedIn da Vupy: https://www.linkedin.com/company/66179531
+Meu nome é Miguel sou desenvolvedor de API's, sites e aplicativos Android, também sou criador da [Vupy](https://socialvupy.com)
 
 
-<img src="dinossauro2.gif" style="transform: rotate(90deg);">
+## Programação
+
+Eu realmente gosto de criar coisas em 
+
+ > - Python para Web com Django, FastAPI e AioHTTP
+ > - Go em microserviços e Socket 
+ > - NodeJS nas API's e Front-end
+ > - Flutter para Android 
+ > - Swift com SwiftUI para iOS
+
+
+## Projetos
+
+Recomendo estes projetos para ver
+
+- [Vupy](https://socialvupy.com)
+- [SoftUI](https://github.com/Vupy/Soft-UI-Interface)
+
+Mas caso queira mais veja meus repositórios lá provavelmente encontrará algo interessante
+
+## Contatos
+
+- [LinkedIn](https://www.linkedin.com/in/miguel-vieira-c-7a1534189/)
+- [Twitter](https://twitter.com/MiguelVColombo)
+
