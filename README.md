@@ -1,33 +1,58 @@
-# Seja bem bem-vindo ao meu perfil
+# Miguel Colombo
 
-## Sobre
+Backend Engineer focused on distributed systems, event-driven architectures, and real-time data platforms.
 
-Meu nome é Miguel sou desenvolvedor de API's, sites e aplicativos Android, também sou criador da [Vupy](https://socialvupy.com)
+I build scalable backend systems designed for high-throughput processing, low-latency APIs, and data-intensive workloads.
 
+---
 
-## Programação
+## 🧠 About Me
 
-Eu realmente gosto de criar coisas em 
+* Backend engineer with strong focus on **distributed systems and scalability**
+* Experience with **event-driven architectures and messaging systems**
+* Passionate about **data platforms, observability, and performance**
+* Comfortable working across **backend, data, and infrastructure layers**
 
- > - Python para Web com Django, FastAPI e AioHTTP
- > - Go em microserviços e Socket 
- > - NodeJS nas API's e Front-end
- > - Flutter para Android 
- > - Swift com SwiftUI para iOS
+---
 
+## ⚙️ Tech Stack
 
-## Projetos
+**Languages**
+Go • Node.js • Python • Rust
 
-Recomendo estes projetos para ver
+**Backend & Communication**
+REST • gRPC • Microservices
 
-- [Vupy](https://socialvupy.com)
-- [SoftUI](https://github.com/Vupy/Soft-UI-Interface)
-- [Iginius-api](https://github.com/dayknightmare/Iginius)
+**Data & Streaming**
+Kafka • Apache Druid • ClickHouse
 
-Mas caso queira mais veja meus repositórios lá provavelmente encontrará algo interessante ou no meu [portfólio](http://dayknightmare.github.io/portfolio/) 
+**Cloud & Infrastructure**
+AWS • Docker
 
-## Contatos
+**Security**
+OAuth2.1 • OpenID Connect • RBAC
 
-- [LinkedIn](https://www.linkedin.com/in/miguel-vieira-c-7a1534189/)
-- [Twitter](https://twitter.com/MiguelVColombo)
+---
 
+## 🏗️ What I Focus On
+
+* Designing scalable and resilient backend architectures
+* Building event-driven systems with strong consistency guarantees
+* Developing real-time and batch data pipelines
+* Improving system performance, latency, and throughput
+
+---
+
+## 📈 Engineering Interests
+
+* Distributed systems
+* Data-intensive applications
+* Observability and monitoring
+* Performance optimization
+* System design
+
+---
+
+## 🤝 Let's Connect
+
+* LinkedIn: https://www.linkedin.com/in/miguelvcolombo/
