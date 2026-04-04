@@ -1,58 +1,67 @@
-# Miguel Colombo
-
-Backend Engineer focused on distributed systems, event-driven architectures, and real-time data platforms.
-
-I build scalable backend systems designed for high-throughput processing, low-latency APIs, and data-intensive workloads.
-
----
-
-## 🧠 About Me
-
-* Backend engineer with strong focus on **distributed systems and scalability**
-* Experience with **event-driven architectures and messaging systems**
-* Passionate about **data platforms, observability, and performance**
-* Comfortable working across **backend, data, and infrastructure layers**
+<h1 align="center"><code>Miguel Colombo</code></h1>
+<p align="center">
+  Backend Engineer · Distributed Systems · Event-Driven Architectures · Real-Time Data
+</p>
 
 ---
 
-## ⚙️ Tech Stack
-
-**Languages**
-Go • Node.js • Python • Rust
-
-**Backend & Communication**
-REST • gRPC • Microservices
-
-**Data & Streaming**
-Kafka • Apache Druid • ClickHouse
-
-**Cloud & Infrastructure**
-AWS • Docker
-
-**Security**
-OAuth2.1 • OpenID Connect • RBAC
+Backend engineer specializing in high-throughput distributed systems, event-driven pipelines, and low-latency APIs. I design and build infrastructure that scales — from streaming data platforms with Kafka and ClickHouse to resilient microservices on AWS.
 
 ---
 
-## 🏗️ What I Focus On
+## Core Expertise
 
-* Designing scalable and resilient backend architectures
-* Building event-driven systems with strong consistency guarantees
-* Developing real-time and batch data pipelines
-* Improving system performance, latency, and throughput
-
----
-
-## 📈 Engineering Interests
-
-* Distributed systems
-* Data-intensive applications
-* Observability and monitoring
-* Performance optimization
-* System design
+| Domain | Focus |
+|---|---|
+| **Distributed Systems** | Consensus, consistency models, fault tolerance, horizontal scaling |
+| **Event-Driven Architecture** | Kafka-based pipelines, CQRS, event sourcing, async messaging |
+| **Data Platforms** | Real-time OLAP (ClickHouse, Druid), batch + streaming pipelines |
+| **APIs & Protocols** | REST, gRPC, WebSockets — optimized for throughput and latency |
+| **Security** | OAuth2.1, OpenID Connect, RBAC/ABAC |
+| **Observability** | Metrics, tracing, dashboards (Grafana), alerting |
+| **Infrastructure** | AWS, Terraform, ECS, containerized workloads |
 
 ---
 
-## 🤝 Let's Connect
+## Tech Stack
 
-* LinkedIn: https://www.linkedin.com/in/miguelvcolombo/
+### Languages
+
+![Go](https://img.shields.io/badge/Go-22272E?style=for-the-badge&logo=go)
+![Rust](https://img.shields.io/badge/Rust-22272E?style=for-the-badge&logo=rust)
+![Node.js](https://img.shields.io/badge/Node.js-22272E?style=for-the-badge&logo=node.js)
+![Python](https://img.shields.io/badge/Python-22272E?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-22272E?style=for-the-badge&logo=coffeescript&logoColor=red)
+![Kotlin](https://img.shields.io/badge/Kotlin-22272E?style=for-the-badge&logo=kotlin)
+
+### Data & Messaging
+
+![Apache Kafka](https://img.shields.io/badge/Kafka-22272E?style=for-the-badge&logo=apachekafka)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-22272E?style=for-the-badge&logo=clickhouse)
+![Apache Druid](https://img.shields.io/badge/Druid-22272E?style=for-the-badge&logo=apachedruid)
+![Redis](https://img.shields.io/badge/Redis-22272E?style=for-the-badge&logo=redis)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-22272E?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-22272E?style=for-the-badge&logo=mongodb)
+
+### Infrastructure & Observability
+
+![AWS](https://img.shields.io/badge/AWS-22272E?style=for-the-badge&logo=task&logoColor=orange)
+![Terraform](https://img.shields.io/badge/Terraform-22272E?style=for-the-badge&logo=terraform)
+![Grafana](https://img.shields.io/badge/Grafana-22272E?style=for-the-badge&logo=grafana)
+
+---
+
+## What I Build
+
+- **Streaming data pipelines** — ingestion, transformation, and real-time OLAP queries at scale
+- **High-throughput microservices** — designed for low latency and horizontal scalability
+- **Event-driven systems** — with strong consistency guarantees and idempotent processing
+- **Secure API layers** — REST and gRPC with modern auth (OAuth2.1, OIDC, RBAC/ABAC)
+- **Observable infrastructure** — metrics, alerting, and dashboards baked in from day one
+
+---
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-22272E?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/miguelvcolombo/)
+[![Instagram](https://img.shields.io/badge/Instagram-22272E?style=for-the-badge&logo=instagram)](https://www.instagram.com/miguel.vcolombo/)
